@@ -28,12 +28,12 @@ ${data.description}
 
 ## Table of Contents
 
-* Installation(#installation)
-* Usage(#usage)
-* License(#license)
-* Contributing(#contributing)
-* Tests(#tests)
-* Questions(#questions)
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
 
 ## Installation
 
@@ -46,7 +46,7 @@ ${data.usage}
 ## License
 
 ${renderLicenseLink(data.license)}
-![licenseBadge](https://img.shields.io/badge/license-${data.license}-blue.svg)
+[![licenseBadge](https://img.shields.io/badge/license-${data.license}-blue.svg)](https://choosealicense.com/licenses/${data.license.toLowerCase()}/)
 
 ## Contributing
 
